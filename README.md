@@ -1,1 +1,3 @@
 # WGANs
+
+Notes
