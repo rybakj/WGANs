@@ -4,3 +4,9 @@ git add .
 git commit -m "first check"
 git push origin main
 
+git fetch    # fetch all changes from remote
+git checkout dev1  # checkout brnahc dev1
+git branch    # show current branch
+git branch -r # list all branches
+git checkout main
+
